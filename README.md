@@ -1,7 +1,7 @@
 # AR_Project_1
 
 > 排出正確的字母卡順序，就能召喚出對應的 3D 立體場景！
-> 一款結合實體卡牌與擴增實境（AR）的兒童英語教育互動專案。
+> 一款結合實體卡牌與擴增實境的兒童英語教育互動專案。
 
 **製作單位**：互動細胞 Visual Fun
 
@@ -13,8 +13,7 @@
 
 ## 專案Demo影片
 
-[Transforming Education, Gaming, Entertainment, and Marketing with AR Technology（請填入正確的 YouTube 連結，網址列文字較模糊我無法 100% 確認每個字元，麻煩你直接從瀏覽器複製貼上正確網址）
-](https://youtu.be/PPuIsEGmVpA?si=RBGR8UKgf4OSBZ_5)
+https://youtu.be/PPuIsEGmVpA?si=O0b9hjMn7fPDa7K7&t=17
 
 ## 我負責的部分
 
