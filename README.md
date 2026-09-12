@@ -3,9 +3,6 @@
 > 排出正確的字母卡順序，就能召喚出對應的 3D 立體場景！
 > 一款結合實體卡牌與擴增實境（AR）的兒童英語教育互動專案。
 
-**專案 Demo 影片**：[Transforming Education, Gaming, Entertainment, and Marketing with AR Technology（請填入正確的 YouTube 連結，網址列文字較模糊我無法 100% 確認每個字元，麻煩你直接從瀏覽器複製貼上正確網址）
-](https://youtu.be/PPuIsEGmVpA?si=RBGR8UKgf4OSBZ_5)
-
 **製作單位**：互動細胞 Visual Fun
 
 ---
@@ -13,6 +10,11 @@
 ## 專案簡介
 
 這是我在公司參與開發的兒童英語教育 AR 專案，主題為「單字拼讀學習」。小朋友透過排列印有字母的實體卡牌，並用平板／手機鏡頭掃描，AR 系統會即時辨識卡牌上的字母與排列順序：只要拼出正確的英文單字（例如 B-U-S、K-A-R-T、S-U-R-F、P-L-A-T-F-O-R-M），畫面上就會即時生成對應單字意義的精緻 3D 模型與場景，讓學習單字拼寫的過程變成一場充滿驚喜的立體魔法遊戲。
+
+## 專案Demo影片
+
+[Transforming Education, Gaming, Entertainment, and Marketing with AR Technology（請填入正確的 YouTube 連結，網址列文字較模糊我無法 100% 確認每個字元，麻煩你直接從瀏覽器複製貼上正確網址）
+](https://youtu.be/PPuIsEGmVpA?si=RBGR8UKgf4OSBZ_5)
 
 ## 我負責的部分
 
